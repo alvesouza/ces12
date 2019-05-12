@@ -15,6 +15,9 @@ public:
     
     virtual void solve(const std::vector<unsigned int> &denom,unsigned int value, std::vector<unsigned int> &coins); 
     
+    int recursiveTroco(const std::vector<unsigned int> &denom,int ultima,unsigned int value,
+        std::vector<unsigned int> &coinsProv);
+
      /// how many recursive calls in the last run of solve()
     virtual long countRecursiveCalls() { return recursivecalls; }
     
