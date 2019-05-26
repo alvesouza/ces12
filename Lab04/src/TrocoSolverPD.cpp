@@ -1,6 +1,8 @@
 #include <TrocoSolver.h>
 
 void TrocoSolverPD::solve(const std::vector<unsigned int> &denom,unsigned int value, std::vector<unsigned int> &coins) {
+    //std::cout<<"Começa PD"<<std::endl;
+    //std::cout<<"value = "<< value <<std::endl;
     unsigned int quantProv;
     unsigned int ultProv;
     std::vector<int> quant;

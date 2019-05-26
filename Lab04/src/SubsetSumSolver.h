@@ -14,6 +14,9 @@ public:
     
     virtual bool solve(const std::vector< long> &input,
                         long value, std::vector< char> &output);
+
+    bool recursiveBranchBound(const std::vector< long> &input,long i,
+                            long value, std::vector< char> &output);
         
     virtual std::string getName() { return "BB"; }
     
