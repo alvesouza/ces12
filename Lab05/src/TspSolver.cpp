@@ -202,10 +202,13 @@ void TspSolver::solve(TspReader &tr,std::vector<int> &percourse) {
     std::vector<std::vector<int>> matriz;
     std::vector<int> index;
     makeMatrix(matriz,index,tr);
+
+    prim(matriz,index,caminho);
+
     // here it is filling the vector with  1,2,3,...n
     // you should fill it with a permutation that represents the TSP solution
-    for (int i = 1; i <= tr.getNumCities() ; i++)
-        percourse.push_back(i);
+    for (int i = 0; i < tr.getNumCities() ; i++)
+        percourse.push_back(index[caminho[i]]);
         
         //percourse[3] = 100;
 }//solve
