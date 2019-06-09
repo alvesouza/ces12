@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLabParadigma.a  CMakeFiles/LabParadigma.dir/lib/SSPInstanceGenerator.cpp.o CMakeFiles/LabParadigma.dir/lib/SSPSolverFactory.cpp.o CMakeFiles/LabParadigma.dir/lib/SSP_Exp.cpp.o CMakeFiles/LabParadigma.dir/lib/SubsetSumSolverBalsub.cpp.o CMakeFiles/LabParadigma.dir/lib/SubsetSumSolverDecPis.cpp.o CMakeFiles/LabParadigma.dir/lib/Tick.cpp.o CMakeFiles/LabParadigma.dir/lib/TrocoSolverFactory.cpp.o
+/usr/bin/ranlib libLabParadigma.a

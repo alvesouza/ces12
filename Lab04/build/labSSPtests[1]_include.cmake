@@ -1,0 +1,5 @@
+if(EXISTS "/home/dell/Documentos/GitHub/ces12/Lab04/build/labSSPtests[1]_tests.cmake")
+  include("/home/dell/Documentos/GitHub/ces12/Lab04/build/labSSPtests[1]_tests.cmake")
+else()
+  add_test(labSSPtests_NOT_BUILT labSSPtests_NOT_BUILT)
+endif()

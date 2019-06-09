@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/home/dell/Documentos/GitHub/ces12/Lab04/build/googletest-download/CMakeFiles/googletest
+/home/dell/Documentos/GitHub/ces12/Lab04/build/googletest-download/CMakeFiles/googletest.rule
+/home/dell/Documentos/GitHub/ces12/Lab04/build/googletest-download/CMakeFiles/googletest-complete.rule
+/home/dell/Documentos/GitHub/ces12/Lab04/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/home/dell/Documentos/GitHub/ces12/Lab04/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/home/dell/Documentos/GitHub/ces12/Lab04/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/home/dell/Documentos/GitHub/ces12/Lab04/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/home/dell/Documentos/GitHub/ces12/Lab04/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/home/dell/Documentos/GitHub/ces12/Lab04/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/home/dell/Documentos/GitHub/ces12/Lab04/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/home/dell/Documentos/GitHub/ces12/Lab04/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
